@@ -108,7 +108,7 @@ Then $E(t \mid x) + \epsilon$: energy becomes conditional and temporal, with noi
 
 Next, $\frac{dE_x}{dt}$: first derivative—flow, desire, tendency. This is gradient descent, voice-leading vectors, stress patterns, moral momentum. Direction without curvature.
 
-Then $\frac{dE_{{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$: now you’ve added curvature and uncertainty. Acceleration plus instability. This is where bifurcations live:
+Then $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$: now you’ve added curvature and uncertainty. Acceleration plus instability. This is where bifurcations live:
 
 * modulations,
 * enjambment,
