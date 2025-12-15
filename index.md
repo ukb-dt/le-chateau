@@ -17,6 +17,10 @@
 </script>
 {% endraw %}
  
+> *We call $V^7$ optimistic because it is [teleological](https://ukb-dt.github.io/outdated/)*         
+> *It has a clear purpose and a destination.*         
+> *It is the engine of Western tonal music.*           
+> -- Ilya Zosima 
 
 # 00
 That laugh is earned. You’ve stumbled onto a neat little harmonic koan.
@@ -276,7 +280,7 @@ Here is a breakdown of why they feel so emotionally distinct—the "Optimist" vs
 
 The Sound of "Almost Home"
 
-You call this optimistic because the $V^7$ is teleological—it has a clear purpose and a destination. It is the engine of Western tonal music.
+You call this optimistic because the $V^7$ is [teleological](https://ukb-dt.github.io/outdated/)—it has a clear purpose and a destination. It is the engine of Western tonal music.
  * The Anatomy: In the key of C Major, this is G7 (G - B - D - F).
  * The Tritone's Job: The tritone here sits between the major 3rd (B) and the minor 7th (F).
  * Why it works: The tension here is directional. The leading tone (B) desperately wants to go up to C, and the 7th (F) wants to slide down to E.
